@@ -1,14 +1,12 @@
 body {
-    font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
-    margin: 0;
-    padding: 20px;
+  font-family: Arial;
+  margin: 20px;
+  background: #f0f0f0;
+  color: #333;
 }
 header, footer {
-    background-color: #333;
-    color: white;
-    padding: 10px 20px;
-}
-section {
-    margin: 20px 0;
+  background: #007acc;
+  color: white;
+  padding: 10px;
+  text-align: center;
 }
